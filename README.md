@@ -12,7 +12,7 @@ You can find my work on my website and social platforms under one of the followi
 
 - **The Lab** — EE/VLSI research notes, scaling limits, the occasional simulator built because the existing tools didn't do what I wanted
 - **Essays** — long-form writing on systems, and the various ways people misuse them
-- **Photography** — evidence I occasionally *see* grass. - No worries, I do not touch it though
+- **Photography** — evidence I occasionally *see* grass. - No worries though, I do not touch it 
 
 <br>
 
