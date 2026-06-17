@@ -2,8 +2,6 @@
 
 # DrRemai
 
-**Microelectronics · Vienna, Austria**
-
 </div>
 
 <br>
