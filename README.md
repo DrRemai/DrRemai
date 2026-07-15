@@ -3,16 +3,15 @@
 # DrRemai
 
 </div>
-
 <br>
 
-19, finishing secondary school in Vienna, headed for microelectronics at TU Wien. Most of my time goes into transistor physics, circuit boards, and writing about both — the rest goes into photography, because staring at datasheets all day requires a counterweight.
+19, studying toward microelectronics at TU Wien. I build things related to semiconductor physics and circuit design, write about the same, and occasionally step outside with a camera.
 
-You can find my work on my website and social platforms under one of the following categories:
-
-- **The Lab** — EE/VLSI research notes, scaling limits, the occasional simulator built because the existing tools don't do what I want - or are unaffordable 
-- **Essays** — long-form writing on systems, and the various ways people misuse them
-- **Photography** — evidence I occasionally *see* grass. - No worries, though, I do not touch it 
+**Projects**
+- **MSD** — a next-generation, general-purpose Discord bot built to compete with the best of today
+- **[msdbot.com](https://msdbot.com)** — the web interface and dashboard system for MSD
+- **[drremai.com](https://drremai.com)** — my personal website and portfolio, of sorts
+- **[Simple Tournament Platform](https://github.com/DrRemai/ahs-sportfest)** — a tournament platform built for my school's yearly sports event; built in two days, so large parts of it are vibe-coded with Claude *(open source)*
 
 <br>
 
@@ -26,7 +25,6 @@ You can find my work on my website and social platforms under one of the followi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ed9404)](https://linkedin.com/in/DrRemai)
 
 </div>
-
 <br>
 
 <div align="center">
