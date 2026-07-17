@@ -20,7 +20,7 @@
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=internetexplorer&logoColor=ed9404)](https://drremai.com)
 [![Substack](https://img.shields.io/badge/Substack-000000?style=for-the-badge&logo=substack&logoColor=ed9404)](https://substack.com/@drremai)
 [![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=ed9404)](https://discord.gg/3Tn6D3qpkh)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=ed9404)](https://x.com/DrRemai)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=ed9404)](https://x.com/Dr_Remai)
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=ed9404)](https://instagram.com/d.rremai)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ed9404)](https://linkedin.com/in/DrRemai)
 
