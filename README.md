@@ -27,7 +27,6 @@
 </div>
 <br>
 
-**[![DrRemai's GitHub stats](https://github-stats-extended.vercel.app/api?username=DrRemai)](https://github.com/stats-organization/github-stats-extended)[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=DrRemai&layout=donut&langs_count=5&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=DrRemai&layout=donut&langs_count=5&theme=transparent)**
 
 <div align="center">
 <sub>If something here looks broken, it's probably intentional. Mostly.</sub>
