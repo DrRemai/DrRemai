@@ -27,6 +27,10 @@
 </div>
 <br>
 
+**[![DrRemai's GitHub stats](https://github-stats-extended.vercel.app/api?username=DrRemai)](https://github.com/stats-organization/github-stats-extended)**
+
 <div align="center">
 <sub>If something here looks broken, it's probably intentional. Mostly.</sub>
 </div>
+
+
